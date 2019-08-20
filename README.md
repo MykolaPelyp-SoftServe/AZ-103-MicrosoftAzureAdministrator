@@ -12,19 +12,16 @@ To support the new exam, we introduce a new AZ-103 GitHub repository, starting o
 
 This repository will include the following labs:
 
--  Azure Event Grid and Azure Logic Apps (az-101-02b)
 -  Azure AD Identity Protection (az-101-04b)
 -  Azure Network Watcher (az-101-03b)
 -  Configure Azure DNS (az-100-04b)
 -  Deploy and Manage Virtual Machines (az-100-03)
 -  Governance and Compliance (az-100-01b)
--  Implement and Manage Azure Web Apps (az-101-02)
 -  Implement ASR Between Regions (az-101-01)
 -  Implement Directory Synchronization (az-100-05)
 -  Implementing File Sync (az-100-02b)
 -  Implement and Manage Storage (az-100-02)
 -  Load Balancer and Traffic Manager (az-101-03)
--  Migrate On-premises Hyper-V VMs to Azure (az-101-01b)
 -  Role-Based Access Control (az-100-01)
 -  Self-Service Password Reset (az-100-05b)
 -  Virtual Machines and Scale Sets (az-100-03b)
